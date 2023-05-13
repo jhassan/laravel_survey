@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "^0.0.0-insiders.9dff545",
-    "@heroicons/vue": "^2.0.18",
+    "@heroicons/vue": "^1.0.6",
     "vue": "^3.2.47",
     "vue-router": "^4.0.13",
     "vuex": "^4.0.2"
